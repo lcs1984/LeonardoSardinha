@@ -2,4 +2,4 @@
 
 Olá, sou o Leonardo Sardinha! Sou desenvolvedor web e atualmente tenho trabalhado com as seguintes linguagens e tecnologias:
 
-(https://github-readme-stats.vercel.app/api?username=leonardocsardinha&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardocsardinha)](https://github.com/anuraghazra/github-readme-stats)
